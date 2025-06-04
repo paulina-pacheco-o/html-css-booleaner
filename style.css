@@ -1,0 +1,43 @@
+#h1 {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#p span {
+  color: lightgray;
+}
+
+#p {
+  color: #7ec3da;
+}
+
+.box-image img {
+
+  width: 50%;
+  height: 40%;
+
+}
+
+span {
+  background-color: yellow;
+}
+
+#td {
+  background-color: #21a8e7;
+  color: white;
+}
+
+#td {
+  background-color: #b1e6f2;
+  color: black;
+}
+
+#td {
+  background-color: #FFFFFF;
+  color: black;
+}
+
+#td {
+  background-color: #b1e6f2;
+  color: black;
+}
